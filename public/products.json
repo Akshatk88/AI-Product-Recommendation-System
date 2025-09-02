@@ -1,0 +1,56 @@
+[
+  {
+    "id": "p1",
+    "name": "Pixel Nova 7",
+    "category": "Smartphone",
+    "price": 449,
+    "rating": 4.5,
+    "description": "Compact Android phone with excellent camera and clean OS.",
+    "image": "/placeholder.svg?height=160&width=160"
+  },
+  {
+    "id": "p2",
+    "name": "Aether Phone X",
+    "category": "Smartphone",
+    "price": 899,
+    "rating": 4.7,
+    "description": "Flagship performance with premium build and long battery life.",
+    "image": "/placeholder.svg?height=160&width=160"
+  },
+  {
+    "id": "p3",
+    "name": "EcoBuds Lite",
+    "category": "Earbuds",
+    "price": 79,
+    "rating": 4.2,
+    "description": "Affordable wireless earbuds with clear calls and IPX5 rating.",
+    "image": "/placeholder.svg?height=160&width=160"
+  },
+  {
+    "id": "p4",
+    "name": "WorkMate 14 Pro",
+    "category": "Laptop",
+    "price": 1199,
+    "rating": 4.6,
+    "description": "14-inch productivity laptop with bright display and great keyboard.",
+    "image": "/placeholder.svg?height=160&width=160"
+  },
+  {
+    "id": "p5",
+    "name": "BudgetOne 5G",
+    "category": "Smartphone",
+    "price": 299,
+    "rating": 4.1,
+    "description": "Great value 5G phone with solid camera and big battery.",
+    "image": "/placeholder.svg?height=160&width=160"
+  },
+  {
+    "id": "p6",
+    "name": "SoundBar Mini",
+    "category": "Audio",
+    "price": 129,
+    "rating": 4.0,
+    "description": "Compact soundbar that upgrades TV audio with Bluetooth support.",
+    "image": "/placeholder.svg?height=160&width=160"
+  }
+]
